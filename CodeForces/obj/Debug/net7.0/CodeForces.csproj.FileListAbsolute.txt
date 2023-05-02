@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\bin\Debug\net7.0\CodeForces.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\bin\Debug\net7.0\CodeForces.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\bin\Debug\net7.0\CodeForces.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\bin\Debug\net7.0\CodeForces.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\bin\Debug\net7.0\CodeForces.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\refint\CodeForces.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\CodeForces.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\obj\Debug\net7.0\ref\CodeForces.dll
