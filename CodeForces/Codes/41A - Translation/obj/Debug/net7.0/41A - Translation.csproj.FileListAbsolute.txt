@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\bin\Debug\net7.0\41A - Translation.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\bin\Debug\net7.0\41A - Translation.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\bin\Debug\net7.0\41A - Translation.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\bin\Debug\net7.0\41A - Translation.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\bin\Debug\net7.0\41A - Translation.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\refint\41A - Translation.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\41A - Translation.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\41A - Translation\obj\Debug\net7.0\ref\41A - Translation.dll
