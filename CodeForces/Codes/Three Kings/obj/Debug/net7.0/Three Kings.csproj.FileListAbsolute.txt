@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\bin\Debug\net7.0\Three Kings.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\bin\Debug\net7.0\Three Kings.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\bin\Debug\net7.0\Three Kings.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\bin\Debug\net7.0\Three Kings.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\bin\Debug\net7.0\Three Kings.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\refint\Three Kings.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\Three Kings.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\Three Kings\obj\Debug\net7.0\ref\Three Kings.dll
