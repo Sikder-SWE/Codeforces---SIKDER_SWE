@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\refint\236A - Boy or Girl.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\236A - Boy or Girl\obj\Debug\net7.0\ref\236A - Boy or Girl.dll
