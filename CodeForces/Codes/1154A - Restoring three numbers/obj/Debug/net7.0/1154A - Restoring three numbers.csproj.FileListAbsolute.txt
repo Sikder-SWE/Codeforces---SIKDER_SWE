@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\bin\Debug\net7.0\1154A - Restoring three numbers.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\bin\Debug\net7.0\1154A - Restoring three numbers.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\bin\Debug\net7.0\1154A - Restoring three numbers.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\bin\Debug\net7.0\1154A - Restoring three numbers.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\bin\Debug\net7.0\1154A - Restoring three numbers.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\refint\1154A - Restoring three numbers.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\1154A - Restoring three numbers.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1154A - Restoring three numbers\obj\Debug\net7.0\ref\1154A - Restoring three numbers.dll
