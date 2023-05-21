@@ -1,7 +1,6 @@
 https://codeforces.com/problemset/problem/443/A
 https://codeforces.com/problemset/problem/996/A
 https://codeforces.com/problemset/problem/112/A
-https://codeforces.com/problemset/problem/1154/A
 https://codeforces.com/problemset/problem/116/A
 https://codeforces.com/problemset/problem/1328/A
 https://codeforces.com/problemset/problem/1335/A
