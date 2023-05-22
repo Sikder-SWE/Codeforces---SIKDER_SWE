@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\bin\Debug\net7.0\1829A - Love Strory (Contest).exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\bin\Debug\net7.0\1829A - Love Strory (Contest).deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\bin\Debug\net7.0\1829A - Love Strory (Contest).runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\bin\Debug\net7.0\1829A - Love Strory (Contest).dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\bin\Debug\net7.0\1829A - Love Strory (Contest).pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\refint\1829A - Love Strory (Contest).dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\1829A - Love Strory (Contest).genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1829A - Love Strory (Contest)\obj\Debug\net7.0\ref\1829A - Love Strory (Contest).dll
