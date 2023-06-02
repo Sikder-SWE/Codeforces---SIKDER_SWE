@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\bin\Debug\net7.0\344A - Magnets.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\bin\Debug\net7.0\344A - Magnets.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\bin\Debug\net7.0\344A - Magnets.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\bin\Debug\net7.0\344A - Magnets.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\bin\Debug\net7.0\344A - Magnets.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\refint\344A - Magnets.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\344A - Magnets.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\344A - Magnets\obj\Debug\net7.0\ref\344A - Magnets.dll
