@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\bin\Debug\net7.0\469A - I Wanna Be the Guy.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\bin\Debug\net7.0\469A - I Wanna Be the Guy.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\bin\Debug\net7.0\469A - I Wanna Be the Guy.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\bin\Debug\net7.0\469A - I Wanna Be the Guy.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\bin\Debug\net7.0\469A - I Wanna Be the Guy.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\refint\469A - I Wanna Be the Guy.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\469A - I Wanna Be the Guy.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\469A - I Wanna Be the Guy\obj\Debug\net7.0\ref\469A - I Wanna Be the Guy.dll
