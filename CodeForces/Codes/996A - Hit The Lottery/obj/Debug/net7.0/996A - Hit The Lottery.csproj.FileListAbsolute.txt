@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\bin\Debug\net7.0\996A - Hit The Lottery.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\bin\Debug\net7.0\996A - Hit The Lottery.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\bin\Debug\net7.0\996A - Hit The Lottery.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\bin\Debug\net7.0\996A - Hit The Lottery.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\bin\Debug\net7.0\996A - Hit The Lottery.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\refint\996A - Hit The Lottery.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\996A - Hit The Lottery.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\996A - Hit The Lottery\obj\Debug\net7.0\ref\996A - Hit The Lottery.dll
