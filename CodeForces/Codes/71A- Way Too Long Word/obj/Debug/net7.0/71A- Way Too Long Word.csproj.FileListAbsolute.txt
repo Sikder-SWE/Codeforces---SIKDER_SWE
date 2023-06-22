@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\bin\Debug\net7.0\71A- Way Too Long Word.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\bin\Debug\net7.0\71A- Way Too Long Word.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\bin\Debug\net7.0\71A- Way Too Long Word.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\bin\Debug\net7.0\71A- Way Too Long Word.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\bin\Debug\net7.0\71A- Way Too Long Word.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\refint\71A- Way Too Long Word.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\71A- Way Too Long Word.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\71A- Way Too Long Word\obj\Debug\net7.0\ref\71A- Way Too Long Word.dll
