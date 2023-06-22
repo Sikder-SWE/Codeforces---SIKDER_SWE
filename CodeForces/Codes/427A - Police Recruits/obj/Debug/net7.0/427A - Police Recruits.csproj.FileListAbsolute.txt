@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\bin\Debug\net7.0\427A - Police Recruits.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\bin\Debug\net7.0\427A - Police Recruits.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\bin\Debug\net7.0\427A - Police Recruits.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\bin\Debug\net7.0\427A - Police Recruits.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\bin\Debug\net7.0\427A - Police Recruits.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\refint\427A - Police Recruits.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\427A - Police Recruits.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\427A - Police Recruits\obj\Debug\net7.0\ref\427A - Police Recruits.dll
