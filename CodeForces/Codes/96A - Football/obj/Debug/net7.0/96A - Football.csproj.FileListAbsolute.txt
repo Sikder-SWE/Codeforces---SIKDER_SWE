@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\bin\Debug\net7.0\96A - Football.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\bin\Debug\net7.0\96A - Football.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\bin\Debug\net7.0\96A - Football.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\bin\Debug\net7.0\96A - Football.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\bin\Debug\net7.0\96A - Football.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\refint\96A - Football.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\96A - Football.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\96A - Football\obj\Debug\net7.0\ref\96A - Football.dll
