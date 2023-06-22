@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\bin\Debug\net7.0\4A - Watermelon.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\bin\Debug\net7.0\4A - Watermelon.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\bin\Debug\net7.0\4A - Watermelon.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\bin\Debug\net7.0\4A - Watermelon.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\bin\Debug\net7.0\4A - Watermelon.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\refint\4A - Watermelon.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\4A - Watermelon.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\4A - Watermelon\obj\Debug\net7.0\ref\4A - Watermelon.dll
