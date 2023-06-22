@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\bin\Debug\net7.0\118A - String Task.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\bin\Debug\net7.0\118A - String Task.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\bin\Debug\net7.0\118A - String Task.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\bin\Debug\net7.0\118A - String Task.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\bin\Debug\net7.0\118A - String Task.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\refint\118A - String Task.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\118A - String Task.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\118A - String Task\obj\Debug\net7.0\ref\118A - String Task.dll
