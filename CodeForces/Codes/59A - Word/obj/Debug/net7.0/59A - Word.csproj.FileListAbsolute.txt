@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\bin\Debug\net7.0\59A - Word.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\bin\Debug\net7.0\59A - Word.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\bin\Debug\net7.0\59A - Word.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\bin\Debug\net7.0\59A - Word.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\bin\Debug\net7.0\59A - Word.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\refint\59A - Word.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\59A - Word.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\59A - Word\obj\Debug\net7.0\ref\59A - Word.dll
