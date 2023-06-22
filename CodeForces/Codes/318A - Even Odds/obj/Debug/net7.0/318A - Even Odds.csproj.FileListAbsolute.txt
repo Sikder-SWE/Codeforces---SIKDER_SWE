@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\bin\Debug\net7.0\318A - Even Odds.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\bin\Debug\net7.0\318A - Even Odds.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\bin\Debug\net7.0\318A - Even Odds.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\bin\Debug\net7.0\318A - Even Odds.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\bin\Debug\net7.0\318A - Even Odds.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\refint\318A - Even Odds.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\318A - Even Odds.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\318A - Even Odds\obj\Debug\net7.0\ref\318A - Even Odds.dll
