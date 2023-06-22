@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\bin\Debug\net7.0\266A - Stones on the Table.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\bin\Debug\net7.0\266A - Stones on the Table.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\bin\Debug\net7.0\266A - Stones on the Table.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\bin\Debug\net7.0\266A - Stones on the Table.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\bin\Debug\net7.0\266A - Stones on the Table.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\refint\266A - Stones on the Table.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\266A - Stones on the Table\obj\Debug\net7.0\ref\266A - Stones on the Table.dll
