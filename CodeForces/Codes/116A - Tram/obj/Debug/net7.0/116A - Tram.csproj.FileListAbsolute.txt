@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\bin\Debug\net7.0\116A - Tram.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\bin\Debug\net7.0\116A - Tram.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\bin\Debug\net7.0\116A - Tram.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\bin\Debug\net7.0\116A - Tram.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\bin\Debug\net7.0\116A - Tram.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\refint\116A - Tram.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\116A - Tram.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\116A - Tram\obj\Debug\net7.0\ref\116A - Tram.dll
