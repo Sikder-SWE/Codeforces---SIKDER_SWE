@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\bin\Debug\net7.0\520A - PANGRAM.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\bin\Debug\net7.0\520A - PANGRAM.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\bin\Debug\net7.0\520A - PANGRAM.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\bin\Debug\net7.0\520A - PANGRAM.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\bin\Debug\net7.0\520A - PANGRAM.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\refint\520A - PANGRAM.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\520A - PANGRAM.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\520A - PANGRAM\obj\Debug\net7.0\ref\520A - PANGRAM.dll
