@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - Pangram\\520A - Pangram.csproj": {}
+    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - PANGRAM\\520A - Pangram.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - Pangram\\520A - Pangram.csproj": {
+    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - PANGRAM\\520A - Pangram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - Pangram\\520A - Pangram.csproj",
+        "projectUniqueName": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - PANGRAM\\520A - Pangram.csproj",
         "projectName": "520A - Pangram",
-        "projectPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - Pangram\\520A - Pangram.csproj",
+        "projectPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - PANGRAM\\520A - Pangram.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - Pangram\\obj\\",
+        "outputPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\520A - PANGRAM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
