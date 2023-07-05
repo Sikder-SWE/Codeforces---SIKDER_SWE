@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\bin\Debug\net7.0\1676A - Lucky.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\bin\Debug\net7.0\1676A - Lucky.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\bin\Debug\net7.0\1676A - Lucky.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\bin\Debug\net7.0\1676A - Lucky.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\bin\Debug\net7.0\1676A - Lucky.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\refint\1676A - Lucky.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\1676A - Lucky.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1676A - Lucky\obj\Debug\net7.0\ref\1676A - Lucky.dll
