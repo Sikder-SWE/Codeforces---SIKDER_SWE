@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\bin\Debug\net7.0\268A - Games.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\bin\Debug\net7.0\268A - Games.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\bin\Debug\net7.0\268A - Games.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\bin\Debug\net7.0\268A - Games.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\bin\Debug\net7.0\268A - Games.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\refint\268A - Games.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\268A - Games.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\268A - Games\obj\Debug\net7.0\ref\268A - Games.dll
