@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\bin\Debug\net7.0\160A - Twins.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\bin\Debug\net7.0\160A - Twins.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\bin\Debug\net7.0\160A - Twins.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\bin\Debug\net7.0\160A - Twins.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\bin\Debug\net7.0\160A - Twins.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\refint\160A - Twins.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\160A - Twins.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\160A - Twins\obj\Debug\net7.0\ref\160A - Twins.dll
