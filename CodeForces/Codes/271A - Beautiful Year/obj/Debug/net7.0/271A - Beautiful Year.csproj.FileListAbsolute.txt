@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\bin\Debug\net7.0\271A - Beautiful Year.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\bin\Debug\net7.0\271A - Beautiful Year.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\bin\Debug\net7.0\271A - Beautiful Year.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\bin\Debug\net7.0\271A - Beautiful Year.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\bin\Debug\net7.0\271A - Beautiful Year.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\refint\271A - Beautiful Year.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\271A - Beautiful Year.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\271A - Beautiful Year\obj\Debug\net7.0\ref\271A - Beautiful Year.dll
