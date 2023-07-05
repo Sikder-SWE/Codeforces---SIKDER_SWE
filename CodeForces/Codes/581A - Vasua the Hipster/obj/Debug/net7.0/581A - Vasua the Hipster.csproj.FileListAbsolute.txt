@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\bin\Debug\net7.0\581A - Vasua the Hipster.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\bin\Debug\net7.0\581A - Vasua the Hipster.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\bin\Debug\net7.0\581A - Vasua the Hipster.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\bin\Debug\net7.0\581A - Vasua the Hipster.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\bin\Debug\net7.0\581A - Vasua the Hipster.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\refint\581A - Vasua the Hipster.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\581A - Vasua the Hipster.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\581A - Vasua the Hipster\obj\Debug\net7.0\ref\581A - Vasua the Hipster.dll

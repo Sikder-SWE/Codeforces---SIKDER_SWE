@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "581A - Vasua the Hipster/1.0.0": {
+        "runtime": {
+          "581A - Vasua the Hipster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "581A - Vasua the Hipster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
