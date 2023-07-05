@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\bin\Debug\net7.0\723A - The new Year - Meeting friends.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\bin\Debug\net7.0\723A - The new Year - Meeting friends.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\bin\Debug\net7.0\723A - The new Year - Meeting friends.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\bin\Debug\net7.0\723A - The new Year - Meeting friends.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\bin\Debug\net7.0\723A - The new Year - Meeting friends.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\refint\723A - The new Year - Meeting friends.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\723A - The new Year - Meeting friends.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\723A - The new Year - Meeting friends\obj\Debug\net7.0\ref\723A - The new Year - Meeting friends.dll
