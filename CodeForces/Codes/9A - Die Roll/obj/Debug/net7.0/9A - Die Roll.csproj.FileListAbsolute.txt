@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\bin\Debug\net7.0\9A - Die Roll.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\bin\Debug\net7.0\9A - Die Roll.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\bin\Debug\net7.0\9A - Die Roll.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\bin\Debug\net7.0\9A - Die Roll.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\bin\Debug\net7.0\9A - Die Roll.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\refint\9A - Die Roll.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\9A - Die Roll.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\9A - Die Roll\obj\Debug\net7.0\ref\9A - Die Roll.dll
