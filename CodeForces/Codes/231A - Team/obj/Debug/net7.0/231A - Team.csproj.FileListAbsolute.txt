@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\bin\Debug\net7.0\231A - Team.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\bin\Debug\net7.0\231A - Team.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\bin\Debug\net7.0\231A - Team.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\bin\Debug\net7.0\231A - Team.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\bin\Debug\net7.0\231A - Team.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\refint\231A - Team.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\231A - Team.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\231A - Team\obj\Debug\net7.0\ref\231A - Team.dll
