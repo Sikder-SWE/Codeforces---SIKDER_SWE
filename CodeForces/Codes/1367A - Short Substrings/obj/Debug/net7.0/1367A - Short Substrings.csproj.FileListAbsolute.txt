@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\bin\Debug\net7.0\1367A - Short Substrings.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\bin\Debug\net7.0\1367A - Short Substrings.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\bin\Debug\net7.0\1367A - Short Substrings.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\bin\Debug\net7.0\1367A - Short Substrings.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\bin\Debug\net7.0\1367A - Short Substrings.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\refint\1367A - Short Substrings.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\1367A - Short Substrings.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1367A - Short Substrings\obj\Debug\net7.0\ref\1367A - Short Substrings.dll

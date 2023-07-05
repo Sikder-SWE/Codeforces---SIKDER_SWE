@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\bin\Debug\net7.0\1822A - TubeTube.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\bin\Debug\net7.0\1822A - TubeTube.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\bin\Debug\net7.0\1822A - TubeTube.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\bin\Debug\net7.0\1822A - TubeTube.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\bin\Debug\net7.0\1822A - TubeTube.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\refint\1822A - TubeTube.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\1822A - TubeTube.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1822A - TubeTube\obj\Debug\net7.0\ref\1822A - TubeTube.dll

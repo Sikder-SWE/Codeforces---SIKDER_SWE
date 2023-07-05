@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\58A - Chat Room\\chatRoom.csproj": {}
+    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1367A - Short Substrings\\1367A - Short Substrings.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\58A - Chat Room\\chatRoom.csproj": {
+    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1367A - Short Substrings\\1367A - Short Substrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\58A - Chat Room\\chatRoom.csproj",
-        "projectName": "chatRoom",
-        "projectPath": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\58A - Chat Room\\chatRoom.csproj",
+        "projectUniqueName": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1367A - Short Substrings\\1367A - Short Substrings.csproj",
+        "projectName": "1367A - Short Substrings",
+        "projectPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1367A - Short Substrings\\1367A - Short Substrings.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\58A - Chat Room\\obj\\",
+        "outputPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1367A - Short Substrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

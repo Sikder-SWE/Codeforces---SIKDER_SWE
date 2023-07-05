@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\bin\Debug\net7.0\337A - Puzzles.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\bin\Debug\net7.0\337A - Puzzles.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\bin\Debug\net7.0\337A - Puzzles.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\bin\Debug\net7.0\337A - Puzzles.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\bin\Debug\net7.0\337A - Puzzles.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\refint\337A - Puzzles.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\337A - Puzzles.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\337A - Puzzles\obj\Debug\net7.0\ref\337A - Puzzles.dll
