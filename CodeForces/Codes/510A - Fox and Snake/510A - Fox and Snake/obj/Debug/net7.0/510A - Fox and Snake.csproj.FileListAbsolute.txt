@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\bin\Debug\net7.0\510A - Fox and Snake.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\bin\Debug\net7.0\510A - Fox and Snake.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\bin\Debug\net7.0\510A - Fox and Snake.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\bin\Debug\net7.0\510A - Fox and Snake.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\bin\Debug\net7.0\510A - Fox and Snake.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\refint\510A - Fox and Snake.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\510A - Fox and Snake.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\510A - Fox and Snake\510A - Fox and Snake\obj\Debug\net7.0\ref\510A - Fox and Snake.dll
