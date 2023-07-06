@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\bin\Debug\net7.0\136A - Presents.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\bin\Debug\net7.0\136A - Presents.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\bin\Debug\net7.0\136A - Presents.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\bin\Debug\net7.0\136A - Presents.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\bin\Debug\net7.0\136A - Presents.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\refint\136A - Presents.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\136A - Presents.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\136A - Presents\obj\Debug\net7.0\ref\136A - Presents.dll
