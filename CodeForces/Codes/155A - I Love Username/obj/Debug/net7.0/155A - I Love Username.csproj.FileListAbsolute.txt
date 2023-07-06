@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\bin\Debug\net7.0\155A - I Love Username.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\bin\Debug\net7.0\155A - I Love Username.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\bin\Debug\net7.0\155A - I Love Username.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\bin\Debug\net7.0\155A - I Love Username.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\bin\Debug\net7.0\155A - I Love Username.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\refint\155A - I Love Username.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\155A - I Love Username.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\155A - I Love Username\obj\Debug\net7.0\ref\155A - I Love Username.dll
