@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\bin\Debug\net7.0\281A - Word Capitalization.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\bin\Debug\net7.0\281A - Word Capitalization.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\bin\Debug\net7.0\281A - Word Capitalization.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\bin\Debug\net7.0\281A - Word Capitalization.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\bin\Debug\net7.0\281A - Word Capitalization.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\refint\281A - Word Capitalization.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\281A - Word Capitalization.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\281A - Word Capitalization\obj\Debug\net7.0\ref\281A - Word Capitalization.dll
