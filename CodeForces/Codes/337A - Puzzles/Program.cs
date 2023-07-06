@@ -3,28 +3,23 @@ using static System.Console;
 
 class Problem_337A
 {
-    public Problem_337A(int[] pieces,int Last)
+     static void Main()
     {
-        int difference = 996;
-        //Array.Sort(pieces);
-        for (int i = 0; i < pieces.Length - 1; i++)
-        {
-            if (Math.Abs(pieces[i + 1] - pieces[i]) < difference)
-                difference = pieces[i + 1] - pieces[i];
-            else
-                continue;
+       int student = int.Parse(ReadLine().Split(' ')[0]);
 
-        }
-        Write(difference);
+int[] puzzles = ReadLine().Split(' ').Select(int.Parse).ToArray();
+
+Array.Sort(puzzles);
+int index = 0;
+int min = puzzles[student-1] - puzzles[0];
+for(int i = 1; i <= puzzles.Length-student; i++)
+{
+    if (puzzles[i + student - 1] - puzzles[i] <= min)
+    {
+        min = puzzles[i + student - 1] - puzzles[i];
+        index = i;
     }
-
-
-    static void Main()
-    {
-        int[] nm = Array.ConvertAll(ReadLine().Split(),int.Parse);
-
-        int[] pieces = Array.ConvertAll(ReadLine().Split(), int.Parse);
-
-        Problem_337A solver = new Problem_337A(pieces, nm[0]);
+}
+WriteLine(puzzles[index+student-1] - puzzles[index]);
     }
 }
