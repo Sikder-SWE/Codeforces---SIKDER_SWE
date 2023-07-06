@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\bin\Debug\net7.0\25A - IQ test.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\bin\Debug\net7.0\25A - IQ test.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\bin\Debug\net7.0\25A - IQ test.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\bin\Debug\net7.0\25A - IQ test.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\bin\Debug\net7.0\25A - IQ test.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\refint\25A - IQ test.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\25A - IQ test.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\25A - IQ Test\25A - IQ test\obj\Debug\net7.0\ref\25A - IQ test.dll
