@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\bin\Debug\net7.0\617A - Elephant.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\bin\Debug\net7.0\617A - Elephant.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\bin\Debug\net7.0\617A - Elephant.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\bin\Debug\net7.0\617A - Elephant.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\bin\Debug\net7.0\617A - Elephant.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\refint\617A - Elephant.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\617A - Elephant.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\617A - Elephant\obj\Debug\net7.0\ref\617A - Elephant.dll
