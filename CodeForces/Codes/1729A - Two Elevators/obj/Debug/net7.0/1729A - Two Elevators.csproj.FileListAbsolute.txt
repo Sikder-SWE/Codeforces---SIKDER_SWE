@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\bin\Debug\net7.0\1729A - Two Elevators.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\bin\Debug\net7.0\1729A - Two Elevators.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\bin\Debug\net7.0\1729A - Two Elevators.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\bin\Debug\net7.0\1729A - Two Elevators.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\bin\Debug\net7.0\1729A - Two Elevators.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\refint\1729A - Two Elevators.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\1729A - Two Elevators.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1729A - Two Elevators\obj\Debug\net7.0\ref\1729A - Two Elevators.dll

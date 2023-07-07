@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj": {}
+    "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj": {
+    "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj",
+        "projectUniqueName": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj",
         "projectName": "1399A - Remove Smallest",
-        "projectPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj",
+        "projectPath": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\1399A - Remove Smallest.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\obj\\",
+        "outputPath": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1399A - Remove Smallest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

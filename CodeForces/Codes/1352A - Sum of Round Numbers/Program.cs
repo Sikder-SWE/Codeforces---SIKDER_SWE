@@ -1,4 +1,4 @@
-﻿using static System.Console;
+﻿﻿using static System.Console;
 class Problem_1352A
 {
     static void Main(string[] args)

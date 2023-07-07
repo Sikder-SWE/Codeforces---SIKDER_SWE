@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\Codes.csproj",
-      "projectName": "Codes",
-      "projectPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\Codes.csproj",
+      "projectUniqueName": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1729A - Two Elevators\\1729A - Two Elevators.csproj",
+      "projectName": "1729A - Two Elevators",
+      "projectPath": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1729A - Two Elevators\\1729A - Two Elevators.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\obj\\",
+      "outputPath": "d:\\GitHub\\Repositories\\Codeforces---SIKDER_SWE\\CodeForces\\Codes\\1729A - Two Elevators\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
