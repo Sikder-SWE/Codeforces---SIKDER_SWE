@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\bin\Debug\net7.0\1807A - Plus or Minus.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\bin\Debug\net7.0\1807A - Plus or Minus.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\bin\Debug\net7.0\1807A - Plus or Minus.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\bin\Debug\net7.0\1807A - Plus or Minus.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\bin\Debug\net7.0\1807A - Plus or Minus.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\refint\1807A - Plus or Minus.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\1807A - Plus or Minus.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1807A - Plus or Minus\obj\Debug\net7.0\ref\1807A - Plus or Minus.dll
