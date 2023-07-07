@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\bin\Debug\net7.0\1399A - Remove Smallest.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\bin\Debug\net7.0\1399A - Remove Smallest.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\bin\Debug\net7.0\1399A - Remove Smallest.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\bin\Debug\net7.0\1399A - Remove Smallest.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\bin\Debug\net7.0\1399A - Remove Smallest.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\refint\1399A - Remove Smallest.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\1399A - Remove Smallest.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1399A - Remove Smallest\obj\Debug\net7.0\ref\1399A - Remove Smallest.dll
