@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\bin\Debug\net7.0\432A - Choosing Team.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\bin\Debug\net7.0\432A - Choosing Team.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\bin\Debug\net7.0\432A - Choosing Team.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\bin\Debug\net7.0\432A - Choosing Team.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\bin\Debug\net7.0\432A - Choosing Team.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\refint\432A - Choosing Team.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\432A - Choosing Team.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\432A - Choosing Team\obj\Debug\net7.0\ref\432A - Choosing Team.dll
