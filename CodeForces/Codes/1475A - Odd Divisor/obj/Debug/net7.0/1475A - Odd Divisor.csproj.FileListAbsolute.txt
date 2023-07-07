@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\bin\Debug\net7.0\1475A - Odd Divisor.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\bin\Debug\net7.0\1475A - Odd Divisor.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\bin\Debug\net7.0\1475A - Odd Divisor.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\bin\Debug\net7.0\1475A - Odd Divisor.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\bin\Debug\net7.0\1475A - Odd Divisor.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\refint\1475A - Odd Divisor.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\1475A - Odd Divisor.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1475A - Odd Divisor\obj\Debug\net7.0\ref\1475A - Odd Divisor.dll
