@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\bin\Debug\net7.0\151A - Soft Drinking.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\bin\Debug\net7.0\151A - Soft Drinking.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\bin\Debug\net7.0\151A - Soft Drinking.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\bin\Debug\net7.0\151A - Soft Drinking.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\bin\Debug\net7.0\151A - Soft Drinking.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\refint\151A - Soft Drinking.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\151A - Soft Drinking.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\151A - Soft Drinking\obj\Debug\net7.0\ref\151A - Soft Drinking.dll

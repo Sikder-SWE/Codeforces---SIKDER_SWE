@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "151A - Soft Drinking/1.0.0": {
+        "runtime": {
+          "151A - Soft Drinking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "151A - Soft Drinking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
