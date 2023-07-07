@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\bin\Debug\net7.0\1742A - Sum.exe
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\bin\Debug\net7.0\1742A - Sum.deps.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\bin\Debug\net7.0\1742A - Sum.runtimeconfig.json
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\bin\Debug\net7.0\1742A - Sum.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\bin\Debug\net7.0\1742A - Sum.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.AssemblyInfoInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.AssemblyInfo.cs
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\refint\1742A - Sum.dll
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.pdb
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\1742A - Sum.genruntimeconfig.cache
+D:\GitHub\Repositories\Codeforces---SIKDER_SWE\CodeForces\Codes\1742A - Sum\obj\Debug\net7.0\ref\1742A - Sum.dll
