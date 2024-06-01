@@ -1,0 +1,15 @@
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\bin\Debug\net8.0\1409A- Yet Another Two integers Problem.exe
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\bin\Debug\net8.0\1409A- Yet Another Two integers Problem.deps.json
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\bin\Debug\net8.0\1409A- Yet Another Two integers Problem.runtimeconfig.json
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\bin\Debug\net8.0\1409A- Yet Another Two integers Problem.dll
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\bin\Debug\net8.0\1409A- Yet Another Two integers Problem.pdb
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.GeneratedMSBuildEditorConfig.editorconfig
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.AssemblyInfoInputs.cache
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.AssemblyInfo.cs
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.csproj.CoreCompileInputs.cache
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.sourcelink.json
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.dll
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\refint\1409A- Yet Another Two integers Problem.dll
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.pdb
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\1409A- Yet Another Two integers Problem.genruntimeconfig.cache
+F:\STUDY TOOLS\Home Practice\Codeforces---SIKDER_SWE\CodeForces\Codes\1409A- Yet Another Two integers Problem\obj\Debug\net8.0\ref\1409A- Yet Another Two integers Problem.dll
